@@ -1,7 +1,14 @@
-# Block IDE Metrics Plugin
+# IDE Metrics Plugin
 
-https://github.com/block/ide-metrics-plugin
-https://plugins.jetbrains.com/plugin/28394-build-sync-metrics
+A JetBrains IDE plugin that tracks build sync performance metrics and sends telemetry to analytics backends.
+
+**Note:** This plugin is a fork of the [Block IDE Metrics Plugin](https://github.com/block/ide-metrics-plugin) by Block, Inc., licensed under Apache License 2.0.
+
+## Links
+
+- Repository: https://github.com/eduardbosch/ide-metrics-plugin
+- Original Plugin: https://github.com/block/ide-metrics-plugin
+- JetBrains Marketplace: https://plugins.jetbrains.com/plugin/30139-ide-metrics
 
 ## Usage
 

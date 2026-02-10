@@ -67,8 +67,8 @@ intellijPlatform {
     version = project.version.toString()
     description = "Sends basic IDE performance telemetry to analytics backend"
     vendor {
-      name = "Block"
-      url = "https://block.xyz/"
+      name = "Eduard Bosch"
+      url = "https://github.com/eduardbosch"
     }
     ideaVersion {
       sinceBuild = sinceBuildMajorVersion
